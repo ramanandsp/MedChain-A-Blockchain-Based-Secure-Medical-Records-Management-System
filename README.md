@@ -15,6 +15,14 @@ To improve scalability and efficiency, medical records are stored off-chain usin
 - Ethereum blockchain for transparency and immutability
 - Web-based interface with wallet connectivity
 
+
+https://github.com/user-attachments/assets/4e1f9bfe-acde-4991-b97c-0f4fe57907f1
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 121938" src="https://github.com/user-attachments/assets/8fe1f39d-bece-47e3-a86b-a1178b920f4a" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 124010" src="https://github.com/user-attachments/assets/5aca60dd-74bd-4a08-a845-164824b987af" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 124044" src="https://github.com/user-attachments/assets/c9a0964f-9883-41d0-a8f8-f1d3e4b317ae" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 124101" src="https://github.com/user-attachments/assets/0832efd2-7507-4e6e-85ae-0d4acd7f09b4" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 124125" src="https://github.com/user-attachments/assets/afcc6ed6-d94b-401f-b378-8ceaf44d0907" />
+
 ## Technologies Used
 - Solidity – Smart contract development  
 - Ethereum & Hardhat – Blockchain framework  
