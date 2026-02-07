@@ -1,0 +1,76 @@
+await MedChain.getRecords(patient.address);
+await MedChain.connect(doctor).registerPatient(patient.address);
+await MedChain.connect(admin).addDoctor(doctor.address);
+(await MedChain.admin()) === admin.address
+await MedChain.connect(doctor).registerPatient(pat
+(await MedChain.admin()) === admin.address
+(await MedChain.admin()) === (await (await ethers.
+const MedChain = await ethers.getContractAt("MedChainV2", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+(await MedChain.admin()) === admin.address
+const MedChain = await ethers.getContractAt("MedCh
+(await MedChain.admin()) === admin.address
+(await MedChainV2.admin()) === admin.address;
+const MedChain = await ethers.getContractAt("MedCh
+(await MedChainV2.admin()) === admin.address;
+(await MedchainV2.admin()) === admin.address;
+(await MedChainV2.admin()) === admin.address;
+(await MedChain.admin()) === admin.address;
+const [admin, doctor, patient] = await ethers.getSigners();
+.exit
+(await MedChain.admin()) === admin.address;
+// 1️⃣ Verify who the admin is
+const MedChain = await ethers.getContractAt("MedCh
+const [admin, doctor, patient] = await ethers.getSigners();
+.exit
+const [admin, doctor, patient] = await ethers.getSigners();
+await MedChain.getRecords(patient.address);
+// Fetch records for that patient
+);
+  "Test upload from console"
+  "Lab Report",
+  "QmExampleCID123",
+  patient.address,
+await MedChain.connect(doctor).addRecord(
+// Add a sample record
+await MedChain.connect(doctor).registerPatient(patient.address);
+// Register patient (only doctor)
+await MedChain.connect(admin).addDoctor(doctor.address);
+// Add doctor (only admin)
+admin.address;
+(await MedChain.admin()) === 
+// Check admin
+const MedChain = await ethers.getContractAt("MedCh
+const [admin, doctor, patient] = await ethers.getSigner
+const MedChain = await ethers.getContractAt("MedCh
+const [admin, doctor, patient] = await ethers.getSigner
+await MedChain.getRecords("0x90F79bf6EB2c4f870365E
+const MedChain = await ethers.getContractAt("MedCh
+const MedChain = await ethers.getContractAt("MedChain", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+await med.doctors(addr)
+await med.doctors("0x70997970C51812dc3A010C7d01b50e0d7dC79C8");
+await med.addDoctor(addr);
+const addr = "0x70997970C51812dc3A010C7d01b50e0d17dc79C8";
+const med = await ethers.getContractAt("MedChainV2", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+.exit
+await med.addDoctor(addr);
+let addr = "0x70997970C51812dc3A010C7d01b50e0d7dC79C8";
+delete addr
+const addr = "0x70997970C51812dc3A010C7d01b50e0d7dC79C8"
+delete addr
+await med.addDoctor(addr)
+const addr = "0x70997970C51812dc3A010C7d01b50e0d7dC79C8";
+const addr = "0x70997970C51812dc3A010C7d01b50e0d7dC79C8";await med.addDoctor(addr);
+await med.addDoctor("0x70997970C51812dc3A010C7d01b50e0d7dC79C8");
+(await med.admin()).toString()
+const med = await ethers.getContractAt("MedChainV2", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+(await med.admin()).toString()
+const med = await ethers.getContractAt("MedChainV2
+const med = await ethers.getContractAt("MedChainV2", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+await med.addDoctor("0x70997970C51812dc3A010C7d01b
+const med = await ethers.getContractAt("MedChainV2", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+await med.addDoctor("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+const med = await ethers.getContractAt("MedChainV2
+await med.addDoctor("0x70997970C51812dc3A010C7d01b
+const med = await ethers.getContractAt("MedChainV2
+await med.addDoctor("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+const med = await ethers.getContractAt("MedChainV2", "<DEPLOYED_CONTRACT_ADDRESS>");

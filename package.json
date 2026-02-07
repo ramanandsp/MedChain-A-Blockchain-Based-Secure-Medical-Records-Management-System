@@ -1,0 +1,26 @@
+{
+  "name": "medchain",
+  "version": "1.0.0",
+  "description": "Blockchain-based medical record backend (Hardhat + IPFS + Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.26.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "ipfs-http-client": "^60.0.1",
+    "multer": "^2.0.2",
+    "react-router-dom": "^7.9.5"
+  }
+}
